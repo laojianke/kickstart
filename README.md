@@ -1,5 +1,5 @@
 # kickstart
-kickstart configuration for rhel6/centos6 install automatically
+kickstart configuration for rhel6/centos6 One-touch installation
 
 1. Copy the whole content of DVD or ISO to harddisk.  
 
